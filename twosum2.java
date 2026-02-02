@@ -1,4 +1,4 @@
-class Solution {
+class twosum2 {
     public int[] twoSum(int[] numbers, int target) {
         int i = 0, j = numbers.length - 1;
         while (i < j) {

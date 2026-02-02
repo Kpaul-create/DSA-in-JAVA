@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Solution {
+class MinPairRemove {
     public int minPairRemoval(int[] nums) {
         ArrayList<Integer> arr = new ArrayList<>();
         for (int i : nums) {
